@@ -1,0 +1,6 @@
+/node_modules
+/data/config.env
+
+
+
+# hm isko gitignore file me isliye daal rhe kyuki hme ise github pr nhi daalna chahte as isme private personal keys hoti h
